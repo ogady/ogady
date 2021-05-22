@@ -10,7 +10,7 @@ I'm Backend and Infrastructure Engineer, currently living in Tokyo, Japan.
 
 ## 👑Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogady&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ogady&theme=monokai&title=MultiLanguage,Commit,Repositories,Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🖋GitHub Summary
 

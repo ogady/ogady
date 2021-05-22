@@ -1,14 +1,19 @@
-### Hi there, I'm ogady👋
-### Where to find me
+# Hi there, I'm ogady👋
+
+I'm Backend and Infrastructure Engineer, currently living in Tokyo, Japan.
+
+## 📮Where to find me
 
 * Twitter: https://twitter.com/_ogady_
 * Site: https://ogady.github.io/portfolio_site/
 * Qiita: https://qiita.com/ogady
 
-### Trophy
+## 👑Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Github Summary
+## 🖋GitHub Summary
+
 [![](https://raw.githubusercontent.com/ogady/ogady/main/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://raw.githubusercontent.com/ogady/ogady/main/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ogady/ogady/main/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

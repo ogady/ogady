@@ -4,7 +4,7 @@ I'm Backend and Infrastructure Engineer, currently living in Tokyo, Japan.
 
 ## 📮Where to find me
 
-* Twitter: https://twitter.com/_ogady_
+* Twitter: https://twitter.com/\_ogady\_
 * Site: https://ogady.github.io/portfolio_site/
 * Qiita: https://qiita.com/ogady
 
